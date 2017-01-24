@@ -1,0 +1,81 @@
+[21-Sep-2016 11:32:32 America/Chicago] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 1367
+[24-Sep-2016 05:52:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 1710
+[24-Sep-2016 05:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 221
+[24-Sep-2016 05:56:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 221
+[24-Sep-2016 05:56:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 221
+[28-Sep-2016 10:55:10 Europe/Helsinki] PHP Fatal error:  Cannot redeclare Teacher::manage_attendance() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 717
+[28-Sep-2016 10:55:13 Europe/Helsinki] PHP Fatal error:  Cannot redeclare Teacher::manage_attendance() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 717
+[28-Sep-2016 10:55:29 Europe/Helsinki] PHP Fatal error:  Cannot redeclare Teacher::manage_attendance() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 717
+[28-Sep-2016 10:55:32 Europe/Helsinki] PHP Fatal error:  Cannot redeclare Teacher::manage_attendance() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 717
+[28-Sep-2016 10:55:34 Europe/Helsinki] PHP Fatal error:  Cannot redeclare Teacher::manage_attendance() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 717
+[28-Sep-2016 10:55:36 Europe/Helsinki] PHP Fatal error:  Cannot redeclare Teacher::manage_attendance() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 717
+[28-Sep-2016 10:55:39 Europe/Helsinki] PHP Fatal error:  Cannot redeclare Teacher::manage_attendance() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 717
+[30-Sep-2016 08:24:25 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 08:25:51 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 08:37:25 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 08:47:11 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:03:05 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:16:25 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:16:42 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:23:24 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:25:28 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:32:56 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:33:19 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:40:45 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[30-Sep-2016 09:48:25 Europe/Helsinki] PHP Fatal error:  Call to undefined method Teacher::getattendancevalue() in /home/itkoor/public_html/schooldemo/application/controllers/Teacher.php on line 584
+[04-Oct-2016 19:47:07 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 57
+[04-Oct-2016 19:47:38 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 57
+[04-Oct-2016 19:49:36 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 57
+[04-Oct-2016 19:51:56 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 57
+[04-Oct-2016 19:53:21 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 57
+[04-Oct-2016 19:53:49 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 57
+[04-Oct-2016 19:54:31 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_roll_slip.php on line 52
+[29-Nov-2016 18:43:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 18:43:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 18:43:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 18:44:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 18:45:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 18:46:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 19:01:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 19:07:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 19:09:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 19:10:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$system_name' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/index.php on line 1
+[29-Nov-2016 19:17:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:17:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:17:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:20:19 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:22:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:23:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:23:40 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:24:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/class_routine_view.php on line 1
+[29-Nov-2016 19:26:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/subject.php on line 1
+[29-Nov-2016 19:28:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/class_routine_view.php on line 1
+[29-Nov-2016 19:28:46 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/views/backend/admin/class_routine_view.php on line 1
+[12-Dec-2016 14:51:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''nam' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 1073
+[12-Dec-2016 14:51:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''rou' (T_ENCAPSED_AND_WHITESPACE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 1754
+[12-Dec-2016 14:56:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''index.php?admin/student_infor' (T_ENCAPSED_AND_WHITESPACE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 370
+[29-Dec-2016 09:40:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[29-Dec-2016 09:40:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[29-Dec-2016 09:40:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[29-Dec-2016 09:40:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[29-Dec-2016 09:45:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[29-Dec-2016 09:45:22 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[29-Dec-2016 09:49:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[29-Dec-2016 09:56:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 3115
+[01-Jan-2017 20:19:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'ffunction' (T_STRING), expecting function (T_FUNCTION) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2261
+[01-Jan-2017 20:19:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'ffunction' (T_STRING), expecting function (T_FUNCTION) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2261
+[01-Jan-2017 20:20:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'ffunction' (T_STRING), expecting function (T_FUNCTION) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2261
+[01-Jan-2017 20:20:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'ffunction' (T_STRING), expecting function (T_FUNCTION) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2261
+[01-Jan-2017 20:20:46 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'ffunction' (T_STRING), expecting function (T_FUNCTION) in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2261
+[21-Jan-2017 15:26:46 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_transaction.php on line 188
+[21-Jan-2017 15:26:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_transaction.php on line 188
+[21-Jan-2017 15:31:23 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_transaction.php on line 188
+[21-Jan-2017 15:31:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/itkoor/public_html/schooldemo/application/views/backend/admin/student_transaction.php on line 188
+[22-Jan-2017 17:32:08 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2693
+[22-Jan-2017 17:32:14 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2693
+[22-Jan-2017 17:32:39 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2693
+[22-Jan-2017 17:32:40 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2693
+[22-Jan-2017 17:32:48 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2693
+[22-Jan-2017 17:35:43 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2693
+[22-Jan-2017 17:35:46 Europe/Helsinki] PHP Fatal error:  Cannot use [] for reading in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 2693
+[22-Jan-2017 17:51:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''a' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/itkoor/public_html/schooldemo/application/controllers/Admin.php on line 695
